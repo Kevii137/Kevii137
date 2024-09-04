@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 - Updated on September 3rd 2024
+- Added with WSL
 
 <!---
 Kevii137/Kevii137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
